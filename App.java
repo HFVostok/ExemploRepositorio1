@@ -3,7 +3,10 @@ package AtividadeRevisao1;
 public class App {
     
 public static void main(String[] args) {
-    
+ ExemploRevisao obj = new ExemploRevisao();
+ //obj.exemplo1();   
+ obj.Exercico1();
+
 }
 
 }
